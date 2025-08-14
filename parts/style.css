@@ -1,0 +1,152 @@
+/* Alap */
+body {
+	font-size: 10px;
+	color: black;
+}
+
+/* Listák */
+ol,
+ul {
+	margin: 0 0 1rem;
+	padding-left: 1.75em;
+}
+ol { list-style: decimal; }
+ol > li {
+	margin: 0.35rem 0;
+	line-height: 1.45;
+	font-variant-numeric: tabular-nums;
+}
+ul { list-style: none; }
+ul > li {
+	margin: 0.35rem 0;
+	list-style-type: circle;
+}
+
+/* Oldalankénti blokkok */
+.product-warranty {
+	padding: 0;
+	margin: 0;
+}
+.product-warranty:not(:last-of-type) {
+	page-break-after: always;
+}
+
+/* Szövegtömbök */
+.text-block { padding-bottom: 1em; }
+.text-block p {
+	line-height: 1.5em;
+	margin-top: 0.5em;
+}
+
+/* Rendelés blokk */
+.order { margin-top: 1em; }
+
+/* Termék adatok konténer */
+.product-slot {
+	margin-top: 1em;
+	padding-top: 1em;
+	border-top: 1px solid gray;
+}
+
+/* Sorok és címkék */
+.row {
+	margin: 2px 0;
+	font-size: 12px;
+	line-height: 1.35;
+}
+.label {
+	font-weight: bold;
+	display: inline-block;
+	width: 180px;
+	vertical-align: top;
+}
+
+/* Csomag összetevők */
+.components {
+	margin-top: 6px;
+	padding-top: 6px;
+}
+/* Töréspontok megelőzése több helyen egyben */
+.component,
+.in-case-of-repair,
+.in-case-of-replace,
+.repair-form {
+	break-inside: avoid;
+	page-break-inside: avoid;
+}
+.component {
+	margin: 6px 0 0;
+	padding: 6px 8px;
+	border: 1px dotted gray;
+}
+
+/* Sablon elrejtése */
+#warranty-template { display: none; }
+
+/* Fix szöveg blokk */
+.warranty-terms { margin-top: 25px; }
+
+/* Cég fejléc */
+.pdf_fejlec_ceg {
+	border: 1px solid black;
+	display: inline-block;
+	width: 49%;
+	padding: 20px;
+	box-sizing: border-box;
+}
+
+/* Címsorok */
+h1 {
+	font-size: 2.2em;
+	font-weight: bold;
+	margin: 0.5em 0 0.4em;
+	color: black;
+	letter-spacing: 0.02em;
+	text-align: center;
+}
+h2 {
+	font-size: 1.5em;
+	font-weight: bold;
+	margin: 1.2em 0 0.5em;
+	color: black;
+	border-bottom: 2px solid gray;
+	padding-bottom: 2px;
+}
+h3 {
+	font-size: 1.15em;
+	font-weight: bold;
+	margin: 1em 0 0.4em;
+	color: #444;
+}
+
+/* Javítás / csere blokkok */
+.in-case-of-repair { margin-top: 2em; }
+
+/* Űrlapblokkok */
+.repair-form {
+	margin: 20px 5px 0 0;
+	width: 49%;
+	display: inline-block;
+	box-sizing: border-box;
+}
+.repair-form td {
+	border: 1px solid gray;
+	vertical-align: top;
+	height: 7mm;
+	padding: 5px 0 0 10px;
+}
+.repair-form td.multiline { height: 1.5cm; }
+
+/* Szervizpontok */
+.service-locations {
+	width: 100%;
+	margin-top: 1em;
+}
+.service-location {
+	padding: 20px;
+	margin: 1em 4% 0 0;
+	width: 45%;
+	display: inline-block;
+	border: 1px solid gray;
+	box-sizing: border-box;
+}

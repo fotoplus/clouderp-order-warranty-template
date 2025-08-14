@@ -44,3 +44,30 @@ A repó tartalmaz két minta inputot, amelyek a Django által átadott struktúr
 
 - A jogszabály szerinti jótállás jelen sablonban **csak HUF** esetén érvényesül (külföldi pénznemeknél nem kerül alkalmazásra).
 - PDF generátorok közt eltérés lehet az `innerText`/`textContent` kezelésében; a script erre védetten olvas.
+
+
+
+### A `parts/` könyvtár
+Ez **csak az áttekinthetőség miatt van**, A gyártási/futó állomány az összerakott, inline CSS+JS-t tartalmazó **`sablon.html`**.
+
+- `parts/style.css` → bemásolva a `sablon.html` `<style>…</style>` blokkjába
+- `parts/warranty_template.html` → bemásolva a `sablon.html` -be a `<script>` blok elé
+- `parts/script.js` → bemásolva a `sablon.html` `<script>…</script>` blokkjába
+
+### A `sample_files/` könyvtár
+- `sample_files/item.json` - az `item` minta adatai
+- `sample_files/order.json` - az `order` minta adatai
+
+### Figyelmeztetések
+
+- A `sablon.html`-ben a `#products` és a `#warranty-template` **egyszer** szerepeljen.
+- A két JSON script tag **sorrendje maradjon**:
+  ```django
+  {{ items|json_script:"items-json" }}
+  {{ order|json_script:"order-json" }}
+  ```
+- A `<style>` és `<script>` blokkok **inline** legyenek (PDF generátor kompatibilitás).
+- A JS-ben csak a **sima JSDoc típusok** maradjanak (nincs TS/Generics). Példa:
+  ```js
+  /** @type {{pool:Object, byNumber:Object}} */
+  ```

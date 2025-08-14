@@ -1,0 +1,22 @@
+{% if items and order %}
+
+	{{ items|json_script:"items-json" }}
+	{{ order|json_script:"order-json" }}
+
+	<div id="products"></div>
+
+	<style>
+		/* ide jön a style.css */
+	</style>
+
+	<!-- Ide jön a warranty_template.html -->
+
+	<script>
+		/* ide jön a script.js  */
+	</script>
+
+{% else %}
+
+	nincs adat
+
+{% endif %}
