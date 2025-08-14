@@ -1,7 +1,5 @@
 # Changelog
 
-Minden lényeges változást ebben a fájlban dokumentálunk. A formátum a [Keep a Changelog](https://keepachangelog.com/hu-HU/1.1.0/) ajánlásán alapul, és a verziózás a [Szemantikus Verziózás](https://semver.org/lang/hu/) elveit követi.
-
 ## [1.0.0] - 2025-08-14
 
 ### Hozzáadva
