@@ -1,0 +1,1425 @@
+[
+  {
+    "id": "3086",
+    "product": {
+      "barcode_search": null,
+      "sku": null,
+      "type": 100,
+      "warranty_period": "7",
+      "warranty_period_unit": 1,
+      "manufacturer__name": null,
+      "manufacturer__country": null,
+      "manufacturer_sku": null,
+      "weight": 0,
+      "width": null,
+      "height": null,
+      "length": null,
+      "country_of_origin": null,
+      "tag_ids": [],
+      "quantity_multiplier": null,
+      "is_virtual": false,
+      "is_shippable": false,
+      "short_name": null,
+      "display_name": "Állatkák",
+      "description": "",
+      "short_description": "",
+      "unit_name": "Bliszter",
+      "unit_short_name": "bliszter",
+      "unit_iso_short_name": "blister",
+      "unit_count_as_one": true,
+      "secondary_unit_name": null,
+      "secondary_unit_short_name": null,
+      "secondary_unit_iso_short_name": null,
+      "secondary_unit_count_as_one": null,
+      "secondary_unit_multiplier": null,
+      "supplementary_unit_name": null,
+      "supplementary_unit_short_name": null,
+      "attribute_names": null,
+      "attribute_json": null,
+      "highlighted_image_url": null,
+      "primary_category_name": null,
+      "commodity_code_name": null,
+      "multi_barcode": null,
+      "combined_nomenclature_name": null,
+      "price_lists_json": [
+        {
+          "price": 1000,
+          "vat_key": 27,
+          "currency": "HUF",
+          "net_price": 787.4016,
+          "price_list_name": "Fogyasztói ár"
+        }
+      ],
+      "sale_price_lists_json": null,
+      "customer_sku": null,
+      "on_stock": "6.0000",
+      "available": "3.0000",
+      "warehouse_quantity_details": [
+        {
+          "c": "TESZT-BEEE",
+          "e": null,
+          "f": "on_stock",
+          "k": "stock",
+          "n": "Központ > gyűjtő",
+          "v": "101.0000"
+        },
+        {
+          "c": "TESZT-BEEE",
+          "e": null,
+          "f": "on_stock_active",
+          "k": "stock_active",
+          "n": "Központ > gyűjtő",
+          "v": "101.0000"
+        },
+        {
+          "c": "TESZT-BEEE",
+          "e": null,
+          "f": "outgoing",
+          "k": "warehouseoperation",
+          "n": "ORD-2024-000004",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-BEEE",
+          "e": null,
+          "f": "outgoing",
+          "k": "warehouseoperation",
+          "n": "ORD-2024-000007",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-BEEE",
+          "e": null,
+          "f": "incoming",
+          "k": "stocktransfer",
+          "n": "STR-2024-000001",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-BEEE",
+          "e": null,
+          "f": "outgoing",
+          "k": "order",
+          "n": "ORD-2025-000008",
+          "v": "1.00000000"
+        },
+        {
+          "c": "TESZT-BEEE",
+          "e": null,
+          "f": "outgoing",
+          "k": "order",
+          "n": "ORD-2025-000009",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEKK-J",
+          "e": null,
+          "f": "on_stock",
+          "k": "stock",
+          "n": "Központ > gyűjtő",
+          "v": "4996.0000"
+        },
+        {
+          "c": "TESZT-MEKK-J",
+          "e": null,
+          "f": "on_stock_active",
+          "k": "stock_active",
+          "n": "Központ > gyűjtő",
+          "v": "4996.0000"
+        },
+        {
+          "c": "TESZT-MEKK-J",
+          "e": null,
+          "f": "outgoing",
+          "k": "order",
+          "n": "ORD-2025-000008",
+          "v": "1.00000000"
+        },
+        {
+          "c": "TESZT-MEEEKK",
+          "e": null,
+          "f": "on_stock",
+          "k": "stock",
+          "n": "Központ > gyűjtő",
+          "v": "18.0000"
+        },
+        {
+          "c": "TESZT-MEEEKK",
+          "e": null,
+          "f": "on_stock_active",
+          "k": "stock_active",
+          "n": "Központ > gyűjtő",
+          "v": "18.0000"
+        },
+        {
+          "c": "TESZT-MEEEKK",
+          "e": null,
+          "f": "outgoing",
+          "k": "warehouseoperation",
+          "n": "ORD-2023-000024",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEEEKK",
+          "e": null,
+          "f": "outgoing",
+          "k": "warehouseoperation",
+          "n": "ORD-2023-000040",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEEEKK",
+          "e": null,
+          "f": "outgoing",
+          "k": "warehouseoperation",
+          "n": "ORD-2023-000066",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEEEKK",
+          "e": null,
+          "f": "outgoing",
+          "k": "warehouseoperation",
+          "n": "ORD-2023-000069",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEEEKK",
+          "e": null,
+          "f": "incoming",
+          "k": "warehouseoperation",
+          "n": "WOP-2023-013093",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEEEKK",
+          "e": null,
+          "f": "incoming",
+          "k": "warehouseoperation",
+          "n": "WOP-2023-013222",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEEEKK",
+          "e": null,
+          "f": "outgoing",
+          "k": "order",
+          "n": "ORD-2022-000041",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEEEKK",
+          "e": null,
+          "f": "outgoing",
+          "k": "order",
+          "n": "ORD-2025-000008",
+          "v": "3.00000000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "on_stock",
+          "k": "stock",
+          "n": "Központ > gyűjtő",
+          "v": "9319.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "on_stock_active",
+          "k": "stock_active",
+          "n": "Központ > gyűjtő",
+          "v": "9319.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "outgoing",
+          "k": "warehouseoperation",
+          "n": "ORD-2023-000030",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "outgoing",
+          "k": "warehouseoperation",
+          "n": "STR-2023-000043",
+          "v": "2.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "outgoing",
+          "k": "warehouseoperation",
+          "n": "STR-2023-000044",
+          "v": "2.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "outgoing",
+          "k": "warehouseoperation",
+          "n": "STR-2023-000045",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "incoming",
+          "k": "warehouseoperation",
+          "n": "WOP-2023-013092",
+          "v": "10.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "incoming",
+          "k": "warehouseoperation",
+          "n": "WOP-2023-013146",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "incoming",
+          "k": "warehouseoperation",
+          "n": "WOP-2023-013152",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "incoming",
+          "k": "warehouseoperation",
+          "n": "WOP-2023-013154",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "incoming",
+          "k": "warehouseoperation",
+          "n": "WOP-2023-013164",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "incoming",
+          "k": "warehouseoperation",
+          "n": "WOP-2023-013166",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "incoming",
+          "k": "warehouseoperation",
+          "n": "WOP-2023-013168",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "incoming",
+          "k": "warehouseoperation",
+          "n": "WOP-2023-013171",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "outgoing",
+          "k": "warehouseoperation",
+          "n": "WOP-2023-013221",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "outgoing",
+          "k": "order",
+          "n": "ORD-2022-000055",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "outgoing",
+          "k": "order",
+          "n": "ORD-2022-000061",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "outgoing",
+          "k": "order",
+          "n": "ORD-2023-000012",
+          "v": "3.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "outgoing",
+          "k": "order",
+          "n": "ORD-2023-000020",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "outgoing",
+          "k": "order",
+          "n": "ORD-2023-000023",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "outgoing",
+          "k": "order",
+          "n": "ORD-2023-000056",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "outgoing",
+          "k": "order",
+          "n": "ORD-2023-000059",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "outgoing",
+          "k": "order",
+          "n": "ORD-2023-000060",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "outgoing",
+          "k": "order",
+          "n": "ORD-2023-000061",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "outgoing",
+          "k": "order",
+          "n": "ORD-2023-000062",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "outgoing",
+          "k": "order",
+          "n": "ORD-2023-000063",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "outgoing",
+          "k": "order",
+          "n": "ORD-2023-000133",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "outgoing",
+          "k": "order",
+          "n": "ORD-2023-000134",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "outgoing",
+          "k": "order",
+          "n": "ORD-2023-000157",
+          "v": "10.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "outgoing",
+          "k": "order",
+          "n": "ORD-2023-000159",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "outgoing",
+          "k": "order",
+          "n": "ORD-2023-000163",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "outgoing",
+          "k": "order",
+          "n": "ORD-2023-000164",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "outgoing",
+          "k": "order",
+          "n": "ORD-2025-000008",
+          "v": "1.00000000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "outgoing",
+          "k": "order",
+          "n": "ORD-2025-000008",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "outgoing",
+          "k": "order",
+          "n": "ORD-2025-000014",
+          "v": "1.0000"
+        },
+        {
+          "c": "TESZT-MEKK",
+          "e": null,
+          "f": "outgoing",
+          "k": "order",
+          "n": "ORD-2025-000015",
+          "v": "1.0000"
+        }
+      ],
+      "id": 52999
+    },
+    "manual_name": null,
+    "type": "1",
+    "quantity": "1",
+    "comment": null,
+    "net_price": "748.0315",
+    "gross_price": "950",
+    "item_gross_discount": "50",
+    "item_net_discount": "39.3701",
+    "net_discount": "39",
+    "gross_discount": "50",
+    "discount_percent": "5",
+    "discount_type": "2",
+    "original_net_price": "787.4016",
+    "original_gross_price": "1000",
+    "vat_name": "27%",
+    "vat_key": "27.0",
+    "total_vat": "202",
+    "total": "950",
+    "total_gross_price": "950",
+    "total_net_price": "748",
+    "original_total_gross_price": "1000",
+    "original_total_net_price": "787",
+    "original_total_vat": "213",
+    "gross_total_without_discount": "1000",
+    "product_number_description": "KECSKE-25/04-002, KECSKE-25/04-003, KECSKE-25/04-004",
+    "product_number_relationship_list": [
+      {
+        "id": 385,
+        "number": "KECSKE-25/04-002",
+        "quantity": 1,
+        "number_type": 1,
+        "expiration_date": null,
+        "manufacture_date": null
+      },
+      {
+        "id": 384,
+        "number": "KECSKE-25/04-003",
+        "quantity": 1,
+        "number_type": 1,
+        "expiration_date": null,
+        "manufacture_date": null
+      },
+      {
+        "id": 383,
+        "number": "KECSKE-25/04-004",
+        "quantity": 1,
+        "number_type": 1,
+        "expiration_date": null,
+        "manufacture_date": null
+      }
+    ],
+    "real_expected_arrival_date": "2025-08-14",
+    "bundle_elements": [
+      {
+        "product": {
+          "barcode_search": "MEEEEKK",
+          "sku": "TESZT-MEEEKK",
+          "type": 1,
+          "warranty_period": "1",
+          "warranty_period_unit": 1,
+          "manufacturer__name": "Állatfarm",
+          "manufacturer__country": "HU",
+          "manufacturer_sku": null,
+          "weight": 50,
+          "width": 100,
+          "height": 120,
+          "length": 100,
+          "country_of_origin": "HU",
+          "tag_ids": [],
+          "quantity_multiplier": null,
+          "is_virtual": false,
+          "is_shippable": false,
+          "short_name": null,
+          "display_name": "Szigorúan ellenőrzött kecske",
+          "description": "",
+          "short_description": "",
+          "unit_name": "Darab",
+          "unit_short_name": "db",
+          "unit_iso_short_name": "db",
+          "unit_count_as_one": true,
+          "secondary_unit_name": null,
+          "secondary_unit_short_name": null,
+          "secondary_unit_iso_short_name": null,
+          "secondary_unit_count_as_one": null,
+          "secondary_unit_multiplier": null,
+          "supplementary_unit_name": null,
+          "supplementary_unit_short_name": null,
+          "attribute_names": null,
+          "attribute_json": null,
+          "highlighted_image_url": null,
+          "primary_category_name": "Állatka",
+          "commodity_code_name": "01042010",
+          "multi_barcode": null,
+          "combined_nomenclature_name": "01042010",
+          "price_lists_json": [
+            {
+              "price": 1000,
+              "vat_key": 27,
+              "currency": "HUF",
+              "net_price": 787.4016,
+              "price_list_name": "Fogyasztói ár"
+            }
+          ],
+          "sale_price_lists_json": [
+            {
+              "price": 1000.0002,
+              "to_date": null,
+              "vat_key": 27,
+              "currency": "HUF",
+              "from_date": null,
+              "net_price": 787.4017,
+              "price_list_name": "alapértelmezett"
+            }
+          ],
+          "customer_sku": null,
+          "on_stock": "18.0000",
+          "available": "10.0000",
+          "warehouse_quantity_details": [
+            {
+              "e": null,
+              "f": "on_stock",
+              "k": "stock",
+              "n": "Központ > gyűjtő",
+              "v": "18.0000"
+            },
+            {
+              "e": null,
+              "f": "on_stock_active",
+              "k": "stock_active",
+              "n": "Központ > gyűjtő",
+              "v": "18.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "warehouseoperation",
+              "n": "ORD-2023-000024",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "warehouseoperation",
+              "n": "ORD-2023-000040",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "warehouseoperation",
+              "n": "ORD-2023-000066",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "warehouseoperation",
+              "n": "ORD-2023-000069",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "incoming",
+              "k": "warehouseoperation",
+              "n": "WOP-2023-013093",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "incoming",
+              "k": "warehouseoperation",
+              "n": "WOP-2023-013222",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "order",
+              "n": "ORD-2022-000041",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "order",
+              "n": "ORD-2025-000008",
+              "v": "3.00000000"
+            }
+          ],
+          "id": 49732
+        },
+        "quantity": "3"
+      },
+      {
+        "product": {
+          "barcode_search": "MEKKMEKK",
+          "sku": "TESZT-MEKK",
+          "type": 1,
+          "warranty_period": "2",
+          "warranty_period_unit": 365,
+          "manufacturer__name": "Állatfarm",
+          "manufacturer__country": "HU",
+          "manufacturer_sku": null,
+          "weight": 50,
+          "width": 100,
+          "height": 120,
+          "length": 100,
+          "country_of_origin": "CH",
+          "tag_ids": [],
+          "quantity_multiplier": null,
+          "is_virtual": false,
+          "is_shippable": false,
+          "short_name": null,
+          "display_name": "Kecske",
+          "description": "",
+          "short_description": "",
+          "unit_name": "Darab",
+          "unit_short_name": "db",
+          "unit_iso_short_name": "db",
+          "unit_count_as_one": true,
+          "secondary_unit_name": null,
+          "secondary_unit_short_name": null,
+          "secondary_unit_iso_short_name": null,
+          "secondary_unit_count_as_one": null,
+          "secondary_unit_multiplier": null,
+          "supplementary_unit_name": null,
+          "supplementary_unit_short_name": null,
+          "attribute_names": null,
+          "attribute_json": null,
+          "highlighted_image_url": null,
+          "primary_category_name": "Állatka",
+          "commodity_code_name": "01042010",
+          "multi_barcode": null,
+          "combined_nomenclature_name": "01042010",
+          "price_lists_json": [
+            {
+              "price": 1990,
+              "vat_key": 27,
+              "currency": "HUF",
+              "net_price": 1566.9291,
+              "price_list_name": "Fogyasztói ár"
+            },
+            {
+              "price": 500,
+              "vat_key": 27,
+              "currency": "HUF",
+              "net_price": 393.7008,
+              "price_list_name": "Nagyker ár"
+            },
+            {
+              "price": 20,
+              "vat_key": 0,
+              "currency": "EUR",
+              "net_price": 20,
+              "price_list_name": "EUR2"
+            }
+          ],
+          "sale_price_lists_json": [
+            {
+              "price": 900.0001,
+              "to_date": "2023-08-31",
+              "vat_key": 27,
+              "currency": "HUF",
+              "from_date": "2023-02-14",
+              "net_price": 708.6615,
+              "price_list_name": "alapértelmezett"
+            }
+          ],
+          "customer_sku": null,
+          "on_stock": "9319.0000",
+          "available": "9280.0000",
+          "warehouse_quantity_details": [
+            {
+              "e": null,
+              "f": "on_stock",
+              "k": "stock",
+              "n": "Központ > gyűjtő",
+              "v": "9319.0000"
+            },
+            {
+              "e": null,
+              "f": "on_stock_active",
+              "k": "stock_active",
+              "n": "Központ > gyűjtő",
+              "v": "9319.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "warehouseoperation",
+              "n": "ORD-2023-000030",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "warehouseoperation",
+              "n": "STR-2023-000043",
+              "v": "2.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "warehouseoperation",
+              "n": "STR-2023-000044",
+              "v": "2.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "warehouseoperation",
+              "n": "STR-2023-000045",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "incoming",
+              "k": "warehouseoperation",
+              "n": "WOP-2023-013092",
+              "v": "10.0000"
+            },
+            {
+              "e": null,
+              "f": "incoming",
+              "k": "warehouseoperation",
+              "n": "WOP-2023-013146",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "incoming",
+              "k": "warehouseoperation",
+              "n": "WOP-2023-013152",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "incoming",
+              "k": "warehouseoperation",
+              "n": "WOP-2023-013154",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "incoming",
+              "k": "warehouseoperation",
+              "n": "WOP-2023-013164",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "incoming",
+              "k": "warehouseoperation",
+              "n": "WOP-2023-013166",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "incoming",
+              "k": "warehouseoperation",
+              "n": "WOP-2023-013168",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "incoming",
+              "k": "warehouseoperation",
+              "n": "WOP-2023-013171",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "warehouseoperation",
+              "n": "WOP-2023-013221",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "order",
+              "n": "ORD-2022-000055",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "order",
+              "n": "ORD-2022-000061",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "order",
+              "n": "ORD-2023-000012",
+              "v": "3.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "order",
+              "n": "ORD-2023-000020",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "order",
+              "n": "ORD-2023-000023",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "order",
+              "n": "ORD-2023-000056",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "order",
+              "n": "ORD-2023-000059",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "order",
+              "n": "ORD-2023-000060",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "order",
+              "n": "ORD-2023-000061",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "order",
+              "n": "ORD-2023-000062",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "order",
+              "n": "ORD-2023-000063",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "order",
+              "n": "ORD-2023-000133",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "order",
+              "n": "ORD-2023-000134",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "order",
+              "n": "ORD-2023-000157",
+              "v": "10.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "order",
+              "n": "ORD-2023-000159",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "order",
+              "n": "ORD-2023-000163",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "order",
+              "n": "ORD-2023-000164",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "order",
+              "n": "ORD-2025-000008",
+              "v": "1.00000000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "order",
+              "n": "ORD-2025-000008",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "order",
+              "n": "ORD-2025-000014",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "order",
+              "n": "ORD-2025-000015",
+              "v": "1.0000"
+            }
+          ],
+          "id": 49733
+        },
+        "quantity": "1"
+      },
+      {
+        "product": {
+          "barcode_search": null,
+          "sku": "TESZT-BEEE",
+          "type": 1,
+          "warranty_period": "5",
+          "warranty_period_unit": 365,
+          "manufacturer__name": null,
+          "manufacturer__country": null,
+          "manufacturer_sku": null,
+          "weight": 5,
+          "width": 50,
+          "height": 40,
+          "length": 70,
+          "country_of_origin": "HU",
+          "tag_ids": [],
+          "quantity_multiplier": null,
+          "is_virtual": false,
+          "is_shippable": false,
+          "short_name": null,
+          "display_name": "Kísérleti bárány",
+          "description": "",
+          "short_description": "",
+          "unit_name": "Bliszter",
+          "unit_short_name": "bliszter",
+          "unit_iso_short_name": "blister",
+          "unit_count_as_one": true,
+          "secondary_unit_name": null,
+          "secondary_unit_short_name": null,
+          "secondary_unit_iso_short_name": null,
+          "secondary_unit_count_as_one": null,
+          "secondary_unit_multiplier": null,
+          "supplementary_unit_name": null,
+          "supplementary_unit_short_name": null,
+          "attribute_names": null,
+          "attribute_json": null,
+          "highlighted_image_url": null,
+          "primary_category_name": null,
+          "commodity_code_name": "01041080",
+          "multi_barcode": null,
+          "combined_nomenclature_name": "01041080",
+          "price_lists_json": [
+            {
+              "price": 1270,
+              "vat_key": 27,
+              "currency": "HUF",
+              "net_price": 1000,
+              "price_list_name": "Fogyasztói ár"
+            }
+          ],
+          "sale_price_lists_json": null,
+          "customer_sku": null,
+          "on_stock": "101.0000",
+          "available": "97.0000",
+          "warehouse_quantity_details": [
+            {
+              "e": null,
+              "f": "on_stock",
+              "k": "stock",
+              "n": "Központ > gyűjtő",
+              "v": "101.0000"
+            },
+            {
+              "e": null,
+              "f": "on_stock_active",
+              "k": "stock_active",
+              "n": "Központ > gyűjtő",
+              "v": "101.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "warehouseoperation",
+              "n": "ORD-2024-000004",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "warehouseoperation",
+              "n": "ORD-2024-000007",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "incoming",
+              "k": "stocktransfer",
+              "n": "STR-2024-000001",
+              "v": "1.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "order",
+              "n": "ORD-2025-000008",
+              "v": "1.00000000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "order",
+              "n": "ORD-2025-000009",
+              "v": "1.0000"
+            }
+          ],
+          "id": 52867
+        },
+        "quantity": "1"
+      },
+      {
+        "product": {
+          "barcode_search": null,
+          "sku": "TESZT-MEKK-J",
+          "type": 1,
+          "warranty_period": "30",
+          "warranty_period_unit": 1,
+          "manufacturer__name": "Állatfarm",
+          "manufacturer__country": "HU",
+          "manufacturer_sku": null,
+          "weight": 1,
+          "width": 50,
+          "height": 50,
+          "length": 50,
+          "country_of_origin": "HU",
+          "tag_ids": [],
+          "quantity_multiplier": null,
+          "is_virtual": false,
+          "is_shippable": false,
+          "short_name": null,
+          "display_name": "Jövedéki kecske",
+          "description": "",
+          "short_description": "",
+          "unit_name": "Bliszter",
+          "unit_short_name": "bliszter",
+          "unit_iso_short_name": "blister",
+          "unit_count_as_one": true,
+          "secondary_unit_name": null,
+          "secondary_unit_short_name": null,
+          "secondary_unit_iso_short_name": null,
+          "secondary_unit_count_as_one": null,
+          "secondary_unit_multiplier": null,
+          "supplementary_unit_name": null,
+          "supplementary_unit_short_name": null,
+          "attribute_names": null,
+          "attribute_json": null,
+          "highlighted_image_url": null,
+          "primary_category_name": "Állatka",
+          "commodity_code_name": "01042010",
+          "multi_barcode": null,
+          "combined_nomenclature_name": "01042010",
+          "price_lists_json": [
+            {
+              "price": 1000,
+              "vat_key": 0,
+              "currency": "HUF",
+              "net_price": 1000,
+              "price_list_name": "Fogyasztói ár"
+            }
+          ],
+          "sale_price_lists_json": null,
+          "customer_sku": null,
+          "on_stock": "4996.0000",
+          "available": "4995.0000",
+          "warehouse_quantity_details": [
+            {
+              "e": null,
+              "f": "on_stock",
+              "k": "stock",
+              "n": "Központ > gyűjtő",
+              "v": "4996.0000"
+            },
+            {
+              "e": null,
+              "f": "on_stock_active",
+              "k": "stock_active",
+              "n": "Központ > gyűjtő",
+              "v": "4996.0000"
+            },
+            {
+              "e": null,
+              "f": "outgoing",
+              "k": "order",
+              "n": "ORD-2025-000008",
+              "v": "1.00000000"
+            }
+          ],
+          "id": 52966
+        },
+        "quantity": "1"
+      }
+    ],
+    "commodity_code_number": null,
+    "combined_nomenclature_number": null,
+    "country_of_origin": null,
+    "weight": "206",
+    "custom_data": {}
+  },
+  {
+    "id": "3087",
+    "product": {
+      "barcode_search": "MEEEEKK",
+      "sku": "TESZT-MEEEKK",
+      "type": 1,
+      "warranty_period": "1",
+      "warranty_period_unit": 1,
+      "manufacturer__name": "Állatfarm",
+      "manufacturer__country": "HU",
+      "manufacturer_sku": null,
+      "weight": 50,
+      "width": 100,
+      "height": 120,
+      "length": 100,
+      "country_of_origin": "HU",
+      "tag_ids": [],
+      "quantity_multiplier": null,
+      "is_virtual": false,
+      "is_shippable": false,
+      "short_name": null,
+      "display_name": "Szigorúan ellenőrzött kecske",
+      "description": "",
+      "short_description": "",
+      "unit_name": "Darab",
+      "unit_short_name": "db",
+      "unit_iso_short_name": "db",
+      "unit_count_as_one": true,
+      "secondary_unit_name": null,
+      "secondary_unit_short_name": null,
+      "secondary_unit_iso_short_name": null,
+      "secondary_unit_count_as_one": null,
+      "secondary_unit_multiplier": null,
+      "supplementary_unit_name": null,
+      "supplementary_unit_short_name": null,
+      "attribute_names": null,
+      "attribute_json": null,
+      "highlighted_image_url": null,
+      "primary_category_name": "Állatka",
+      "commodity_code_name": "01042010",
+      "multi_barcode": null,
+      "combined_nomenclature_name": "01042010",
+      "price_lists_json": [
+        {
+          "price": 1000,
+          "vat_key": 27,
+          "currency": "HUF",
+          "net_price": 787.4016,
+          "price_list_name": "Fogyasztói ár"
+        }
+      ],
+      "sale_price_lists_json": [
+        {
+          "price": 1000.0002,
+          "to_date": null,
+          "vat_key": 27,
+          "currency": "HUF",
+          "from_date": null,
+          "net_price": 787.4017,
+          "price_list_name": "alapértelmezett"
+        }
+      ],
+      "customer_sku": null,
+      "on_stock": "18.0000",
+      "available": "10.0000",
+      "warehouse_quantity_details": [
+        {
+          "e": null,
+          "f": "on_stock",
+          "k": "stock",
+          "n": "Központ > gyűjtő",
+          "v": "18.0000"
+        },
+        {
+          "e": null,
+          "f": "on_stock_active",
+          "k": "stock_active",
+          "n": "Központ > gyűjtő",
+          "v": "18.0000"
+        },
+        {
+          "e": null,
+          "f": "outgoing",
+          "k": "warehouseoperation",
+          "n": "ORD-2023-000024",
+          "v": "1.0000"
+        },
+        {
+          "e": null,
+          "f": "outgoing",
+          "k": "warehouseoperation",
+          "n": "ORD-2023-000040",
+          "v": "1.0000"
+        },
+        {
+          "e": null,
+          "f": "outgoing",
+          "k": "warehouseoperation",
+          "n": "ORD-2023-000066",
+          "v": "1.0000"
+        },
+        {
+          "e": null,
+          "f": "outgoing",
+          "k": "warehouseoperation",
+          "n": "ORD-2023-000069",
+          "v": "1.0000"
+        },
+        {
+          "e": null,
+          "f": "incoming",
+          "k": "warehouseoperation",
+          "n": "WOP-2023-013093",
+          "v": "1.0000"
+        },
+        {
+          "e": null,
+          "f": "incoming",
+          "k": "warehouseoperation",
+          "n": "WOP-2023-013222",
+          "v": "1.0000"
+        },
+        {
+          "e": null,
+          "f": "outgoing",
+          "k": "order",
+          "n": "ORD-2022-000041",
+          "v": "1.0000"
+        },
+        {
+          "e": null,
+          "f": "outgoing",
+          "k": "order",
+          "n": "ORD-2025-000008",
+          "v": "3.00000000"
+        }
+      ],
+      "id": 49732
+    },
+    "manual_name": null,
+    "type": "1",
+    "quantity": "2",
+    "comment": null,
+    "net_price": "787.4016",
+    "gross_price": "1000",
+    "item_gross_discount": "0",
+    "item_net_discount": "0",
+    "net_discount": "0",
+    "gross_discount": "0",
+    "discount_percent": "0",
+    "discount_type": "2",
+    "original_net_price": "787.4016",
+    "original_gross_price": "1000",
+    "vat_name": "27%",
+    "vat_key": "27.0",
+    "total_vat": "425",
+    "total": "2000",
+    "total_gross_price": "2000",
+    "total_net_price": "1575",
+    "original_total_gross_price": "2000",
+    "original_total_net_price": "1575",
+    "original_total_vat": "425",
+    "gross_total_without_discount": "2000",
+    "product_number_description": "KECSKE-25/04-005, KECSKE-25/04-006",
+    "product_number_relationship_list": [
+      {
+        "id": 382,
+        "number": "KECSKE-25/04-005",
+        "quantity": 1,
+        "number_type": 1,
+        "expiration_date": null,
+        "manufacture_date": null
+      },
+      {
+        "id": 381,
+        "number": "KECSKE-25/04-006",
+        "quantity": 1,
+        "number_type": 1,
+        "expiration_date": null,
+        "manufacture_date": null
+      }
+    ],
+    "real_expected_arrival_date": "2025-08-14",
+    "bundle_elements": null,
+    "commodity_code_number": "01042010",
+    "combined_nomenclature_number": "01042010",
+    "country_of_origin": "HU",
+    "weight": "100",
+    "custom_data": null
+  }
+]
